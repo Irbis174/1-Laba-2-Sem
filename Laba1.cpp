@@ -5,7 +5,7 @@
 #include <cmath>;
 #include <tuple>;
 const int n = 2; // Число точек n в квадратуре 
-const int N = 2; // Степень полинома Лежандра 
+const int N = 100; // Для разбиения на 100 маленьких прямоугольников 
 
 using namespace std;
 
